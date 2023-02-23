@@ -11,6 +11,6 @@
   "dependencies": {
 	  "depcheck": "1.4.2",
      "body-parser": "1.18.2",
-    "shelljs": "0.7.8"
+    "shelljs": "0.8.5"
     }
     }
