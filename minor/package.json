@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-	  "depcheck": "1.4.2",
+	  "depcheck": "1.4.7",
      "body-parser": "1.18.2",
     "shelljs": "0.7.8"
     }
